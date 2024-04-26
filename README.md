@@ -5,7 +5,7 @@ Programma "Git_Kaulins"
 - [x] Uzsākta lokālā Java projekta versionēšana ar Git
 - [x] Izveidots GitHub konts
 - [x] Izveidota GitHub krātuve
-- [ ] Papildināto GitHub saturu iegūt lokālai lietošanai
+- [x] Papildināto GitHub saturu iegūt lokālai lietošanai
 - [ ] Projektam pievienots vēl viens programmētājs (līdzdalībnieks)
-- [ ] Sapludināti zari un novērsts sapludināšanas konflikts
+- [x] Sapludināti zari un novērsts sapludināšanas konflikts
 - [ ] Novērsts kļūdas pieteikums (issue)
